@@ -1,0 +1,17 @@
+accuracy: 0.9378 - loss: 0.1796
+Accuracy of our model on test data :  95.06802558898926 %
+	
+Classification Report:
+              precision    recall  f1-score   support
+
+       Angry       0.98      0.93      0.95        90
+     Disgust       0.97      0.97      0.97        86
+        Fear       0.95      0.88      0.91        90
+       Happy       0.96      1.00      0.98        81
+    Contempt       0.96      0.96      0.96        80
+         Sad       0.91      0.96      0.94        77
+    Surprise       0.92      0.96      0.94        84
+
+    accuracy                           0.95       588
+   macro avg       0.95      0.95      0.95       588
+weighted avg       0.95      0.95      0.95       588
